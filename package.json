@@ -70,7 +70,7 @@
     "playwright": "^1.49.1",
     "query-string": "^9.1.1",
     "tempy": "^3.1.0",
-    "terminal-image": "^3.0.0",
+    "terminal-image": "^5.0.1",
     "update-notifier": "^7.0.0"
   },
   "devDependencies": {
